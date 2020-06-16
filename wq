@@ -1,1 +1,2 @@
-hello_world.py 
+echo "print("Hello World!")" >> hello_world.py 
+
